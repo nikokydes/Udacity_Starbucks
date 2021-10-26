@@ -1,12 +1,12 @@
-,classifier,model,dataset,accuracy,precision,recall,f1,support,AUC
-0,Gradient Boosting,all,all,0.78,0.719,0.763,0.741,8192,0.778
-1,Gradient Boosting,bogo,bogo,0.767,0.693,0.773,0.731,3266,0.768
-2,Gradient Boosting,discount,discount,0.795,0.747,0.817,0.78,3567,0.797
-3,Gradient Boosting,informational,informational,0.776,0.671,0.667,0.669,1350,0.75
-4,Random Forest,all,all,0.776,0.709,0.771,0.739,8192,0.775
-5,Random Forest,bogo,bogo,0.762,0.681,0.791,0.732,3266,0.767
-6,Random Forest,discount,discount,0.794,0.742,0.824,0.781,3567,0.797
-7,Random Forest,informational,informational,0.775,0.648,0.732,0.687,1350,0.764
-8,Gradient Boosting,all,bogo,0.774,0.708,0.758,0.732,3282,0.772
-9,Gradient Boosting,all,discount,0.794,0.751,0.801,0.775,3514,0.795
-10,Gradient Boosting,all,informational,0.765,0.662,0.681,0.671,1396,0.746
+,classifier,model,dataset,accuracy,precision,recall,f1,AUC
+0,Gradient Boosting,all,all,0.78,0.719,0.763,0.741,0.778
+1,Gradient Boosting,bogo,bogo,0.767,0.693,0.773,0.731,0.768
+2,Gradient Boosting,discount,discount,0.795,0.747,0.817,0.78,0.797
+3,Gradient Boosting,informational,informational,0.776,0.671,0.667,0.669,0.75
+4,Random Forest,all,all,0.776,0.709,0.771,0.739,0.775
+5,Random Forest,bogo,bogo,0.762,0.681,0.791,0.732,0.767
+6,Random Forest,discount,discount,0.794,0.742,0.824,0.781,0.797
+7,Random Forest,informational,informational,0.775,0.648,0.732,0.687,0.764
+8,Gradient Boosting,all,bogo,0.774,0.708,0.758,0.732,0.772
+9,Gradient Boosting,all,discount,0.794,0.751,0.801,0.775,0.795
+10,Gradient Boosting,all,informational,0.765,0.662,0.681,0.671,0.746
