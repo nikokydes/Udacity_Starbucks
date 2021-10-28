@@ -1,0 +1,9 @@
+,classifier,model,dataset,accuracy,precision,recall,f1,AUC
+0,Gradient Boosting,combined,all,0.777,0.719,0.749,0.734,0.773
+1,Gradient Boosting,bogo,bogo,0.767,0.697,0.764,0.729,0.766
+2,Gradient Boosting,discount,discount,0.796,0.753,0.809,0.78,0.798
+3,Gradient Boosting,informational,informational,0.776,0.67,0.67,0.67,0.75
+4,Random Forest,combined,all,0.752,0.694,0.709,0.701,0.745
+5,Random Forest,bogo,bogo,0.741,0.677,0.704,0.69,0.735
+6,Random Forest,discount,discount,0.775,0.736,0.774,0.754,0.775
+7,Random Forest,informational,informational,0.747,0.629,0.614,0.621,0.714

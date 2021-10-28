@@ -1,0 +1,9 @@
+,classifier,model,fold 1,fold 2,fold 3,fold 4,fold 5
+0,Gradient Boosting,combined,0.742,0.75,0.751,0.743,0.744
+1,Gradient Boosting,bogo,0.729,0.73,0.744,0.728,0.724
+2,Gradient Boosting,discount,0.785,0.787,0.786,0.794,0.789
+3,Gradient Boosting,informational,0.665,0.657,0.687,0.668,0.643
+4,Random Forest,combined,0.742,0.751,0.756,0.742,0.741
+5,Random Forest,bogo,0.724,0.732,0.742,0.732,0.736
+6,Random Forest,discount,0.784,0.784,0.787,0.79,0.79
+7,Random Forest,informational,0.684,0.66,0.69,0.675,0.664

@@ -1,0 +1,9 @@
+,classifier,model,n_estimators,max_depth,max_features
+0,Gradient Boosting,combined,50,6,0.6
+1,Gradient Boosting,bogo,50,4,0.8
+2,Gradient Boosting,discount,100,4,0.3
+3,Gradient Boosting,informational,100,4,0.3
+4,Random Forest,combined,50,8,0.6
+5,Random Forest,bogo,50,6,0.6
+6,Random Forest,discount,100,8,0.6
+7,Random Forest,informational,100,6,0.8
